@@ -1,0 +1,9 @@
+var json_Sinusetal_9 = {"type":"FeatureCollection","name":"Sinusetal_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Ῥουβρικάτου ποταμοῦ ἐκβολαί","status":"Ῥουβρικάτου ποταμοῦ ἐκβολαί"},"geometry":{"type":"Point","coordinates":[2.095290232482071,41.33936332240819]}},
+{"type":"Feature","properties":{"name":"Κλωδιανοῦ ποταμοῦ ἐκβολαί","status":"aqua"},"geometry":{"type":"Point","coordinates":[3.111158505937128,42.201193540161441]}},
+{"type":"Feature","properties":{"name":"Ἄταγος ποταμοῦ ἐκβολαί","status":"Ἄταγος ποταμοῦ ἐκβολαί (Ptol. II 10, 2)"},"geometry":{"type":"Point","coordinates":[3.013278128535078,43.125299835877335]}},
+{"type":"Feature","properties":{"name":"Ἀτούριος ποταμοῦ ἐκβολαί","status":"Ἀτούριος ποταμοῦ ἐκβολαί (Ptol. II 7, 1)"},"geometry":{"type":"Point","coordinates":[-1.5222575074274873,43.52919041662688]}},
+{"type":"Feature","properties":{"name":"Ἀραυρίου ποταμοῦ ἐκβολαί","status":"Ἀραυρίου ποταμοῦ ἐκβολαί (Ptol. II 10, 2)"},"geometry":{"type":"Point","coordinates":[3.443791942880996,43.282590909439804]}},
+{"type":"Feature","properties":{"name":"Δηούα ποταμοῦ ἐκβολαί","status":"Δηούα ποταμοῦ ἐκβολαί (Ptol. II 6, 8)"},"geometry":{"type":"Point","coordinates":[-2.355364975080893,43.299723211401705]}},
+{"type":"Feature","properties":{"name":"Ἰλλέριος ποταμοῦ ἐκβολαί","status":"Ἰλλέριος ποταμοῦ ἐκβολαί (Ptol. II 10, 2)"},"geometry":{"type":"Point","coordinates":[3.0444334545668332,42.589294748894424]}},
+{"type":"Feature","properties":{"name":"Ῥουσκίωνος ποταμοῦ ἐκβολαί","status":"Ῥουσκίωνος ποταμοῦ ἐκβολαί (Ptol. II 10, 2)"},"geometry":{"type":"Point","coordinates":[3.039116784081178,42.714723649113004]}},
+{"type":"Feature","properties":{"name":"Ὀρόβιος ποταμοῦ ἐκβολαί","status":"Ὀρόβιος ποταμοῦ ἐκβολαί (Ptol. II 10, 2)"},"geometry":{"type":"Point","coordinates":[3.2980606538241304,43.24690157619088]}}]}
